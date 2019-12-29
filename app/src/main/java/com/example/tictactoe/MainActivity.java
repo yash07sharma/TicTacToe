@@ -169,7 +169,6 @@ public class MainActivity extends AppCompatActivity {
                 param.columnSpec=GridLayout.spec(j);
                 param.width=250;
                 param.height=230;
-                param.
                 param.bottomMargin=2;
                 param.topMargin=2;
                 param.leftMargin=2;
